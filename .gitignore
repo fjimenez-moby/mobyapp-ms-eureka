@@ -34,3 +34,12 @@ build/
 
 # Carpetas de compilación
 bin/
+# Properties
+**/.env
+!**/.env.example
+**/dev.properties
+!**/dev.properties.example
+
+# Carpetas de compilación
+bin/
+**/bin/
